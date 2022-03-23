@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion</title>
+    <description>&quot;Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion&quot;
+</description>
+    <link>http://localhost:4000/timelens-pp/</link>
+    <atom:link href="http://localhost:4000/timelens-pp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Mar 2022 16:50:27 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2022 16:50:27 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+  </channel>
+</rss>
