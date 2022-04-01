@@ -1,7 +1,7 @@
 # TimeLens: Event-based Video Frame Interpolation
 
 <p align="center">
-  <a href="https://youtu.be/vyAR8qVquK4">
+  <a href="https://youtu.be/AsRKQRWHbVs">
     <img src="assets/thumbnail.png" alt="TimeLens++" width="500"/>
   </a>
 </p>
