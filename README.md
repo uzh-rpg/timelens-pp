@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/AsRKQRWHbVs">
-    <img src="assets/thumbnail.png" alt="TimeLens++" width="500"/>
+    <img src="assets/thumbnail_with_yt.png" alt="TimeLens++" width="500"/>
   </a>
 </p>
 
