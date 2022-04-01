@@ -18,7 +18,17 @@ enabled: true
     </div>
   </div>
   <br>
+
   <div class="wrapper">
+    <h1 id="headings">Dataset, Video and Paper</h1>
+    <p align="center">
+      <img src="assets/thumbnail_with_yt.png" alt="eres" style="width: 500""/><br>
+      <a href="http://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf">[PDF]</a> 
+    <a href="https://youtu.be/AsRKQRWHbVs">[YouTube]</a> 
+    <a href="https://github.com/uzh-rpg/timelens-pp/">[Dataset]</a> 
+    </p>
+    
+
     <h1 id="headings">Introduction</h1>
     <p style="text-align: justify">
       Recently, video frame interpolation using a combination of frame- and event-based cameras has surpassed traditional image-based methods both in terms of performance and memory efficiency. However, current methods still suffer from (i) brittle image-level fusion of complementary interpolation results, that fails in the presence of artifacts in the fused image, (ii) potentially temporally inconsistent and inefficient motion estimation procedures, that run for every inserted frame and (iii) low contrast regions that do not trigger events, and thus cause events-only motion estimation to generate artifacts. Moreover, previous methods were only tested on datasets consisting of planar and faraway scenes, which do not capture the full complexity of the real world. In this work, we address the above problems by introducing multi-scale feature-level fusion and computing one-shot non-linear inter-frame motion—which can be efficiently sampled for image warping—from events and images. We also collect the first large-scale events and frames dataset consisting of more than 100 challenging scenes with depth variations, captured with a new experimental setup based on a beamsplitter. We show that our method improves the reconstruction quality by up to 0.2 dB in terms of PSNR and up to 15% in LPIPS score.            
@@ -30,9 +40,6 @@ enabled: true
     S. Tulyakov, A. Bochicchio, D. Gehrig, S. Georgoulis, Y. Li, D. Scaramuzza, <b>"Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion" </b>,
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. 
       <br>
-      <a href="http://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf">[PDF]</a> 
-      <a href="https://youtu.be/AsRKQRWHbVs">[YouTube]</a> 
-      <a href="https://github.com/uzh-rpg/timelens-pp/">[Dataset]</a> 
     </p>
 <pre>
 <code class="pre-scrollable" style="background:#ffffff;color:rgb(36, 21, 21);font-size:12px;padding:0px;border-width:0px;">
