@@ -1,4 +1,4 @@
-# TimeLens: Event-based Video Frame Interpolation
+# Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion
 
 <p align="center">
   <a href="https://youtu.be/AsRKQRWHbVs">
