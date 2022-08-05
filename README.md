@@ -17,7 +17,7 @@ A pdf of the paper is [available here](http://rpg.ifi.uzh.ch/docs/CVPR22_Tulyako
 @Article{Tulyakov22CVPR,
   author        = {Stepan Tulyakov and Alfredo Bochicchio and Daniel Gehrig and Stamatios Georgoulis and Yuanyou Li and
                   Davide Scaramuzza},
-  title         = {{TimeLens++}: Event-based Frame Interpolation with Non-linear Parametric Flow and Multi-scale Fusion},
+  title         = {{Time Lens++}: Event-based Frame Interpolation with Non-linear Parametric Flow and Multi-scale Fusion},
   journal       = "IEEE Conference on Computer Vision and Pattern Recognition",
   year          = 2022
 }
