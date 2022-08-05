@@ -24,4 +24,4 @@ A pdf of the paper is [available here](http://rpg.ifi.uzh.ch/docs/CVPR22_Tulyako
 ```
 
 ### Download Link
-Download the dataset [here](https://rpg.ifi.uzh.ch/data/timelens_pp/bs_ergb.zip). 
+Download the dataset after filling out [this form](https://rpg.ifi.uzh.ch/timelens/timelens++download.html). 
